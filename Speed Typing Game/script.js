@@ -15,6 +15,7 @@
 'replicate', 'relentless', 'pursuit', 'proactive', 'astounding',
 'delightful', 'legitimate', 'mesmerizing', 'polarizing', 'validate'];
 
+
 const levels = {
     easy: 5,
     medium: 3,
